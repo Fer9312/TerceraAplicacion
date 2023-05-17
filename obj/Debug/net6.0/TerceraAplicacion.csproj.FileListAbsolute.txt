@@ -1,0 +1,15 @@
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\bin\Debug\net6.0\TerceraAplicacion.exe
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\bin\Debug\net6.0\TerceraAplicacion.deps.json
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\bin\Debug\net6.0\TerceraAplicacion.runtimeconfig.json
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\bin\Debug\net6.0\TerceraAplicacion.dll
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\bin\Debug\net6.0\TerceraAplicacion.pdb
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.csproj.AssemblyReference.cache
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.AssemblyInfoInputs.cache
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.AssemblyInfo.cs
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.dll
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\refint\TerceraAplicacion.dll
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.pdb
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\TerceraAplicacion.genruntimeconfig.cache
+C:\Users\luisy\source\repos\TerceraAplicacion\TerceraAplicacion\obj\Debug\net6.0\ref\TerceraAplicacion.dll
